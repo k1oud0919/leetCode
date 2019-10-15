@@ -1,5 +1,7 @@
 package id203;
 
+import java.util.List;
+
 /**
  * 删除链表中等于给定值 val 的所有节点。
  *
@@ -10,5 +12,15 @@ package id203;
  */
 
 public class Solution {
+
+    private ListNode head;
+
+    //使用dummyHead解决问题
+    public ListNode removeElements(ListNode head, int val) {
+        return null;
+    }
+
+
+    //使用递归recursion解决
 
 }
